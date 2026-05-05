@@ -51,7 +51,7 @@ Organizations need visibility into employee distribution, compensation, and perf
 ## 📂 Files
 
 * `dashboard.pbix` → Main dashboard
-* `images/` → Screenshots
+* `city-analysis.jpeg;dashboard.jpeg;salary-analysis.jpeg` → Screenshots
 
 
 ## 🚀 How to Use
